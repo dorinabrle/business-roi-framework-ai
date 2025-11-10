@@ -8,7 +8,7 @@ You've built something brilliant. Your fellow developers think it's genius. Your
 
 Maybe you're just building for the joy of it - and that's completely valid. Open source doesn't exist to make money.
 
-But sometimes the questions come anyway: "Could this be a business?" "What's the ROI?" "How do we justify this to management?" Maybe from your manager, maybe from peers, maybe from your own curiosity about what's possible.
+But sometimes the questions come anyway: "Could this be a business?" "What's the ROI (return on investment)?" "How do we justify this to management?" Maybe from your manager, maybe from peers, maybe from your own curiosity about what's possible.
 
 This framework exists for those moments. Not because every project needs to make money, but because when you DO need to translate "this is technically superior" into "this makes business sense," you shouldn't have to figure it out alone.
 
