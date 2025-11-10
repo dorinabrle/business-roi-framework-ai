@@ -75,7 +75,7 @@ Found a mistake? Have a better example? Discovered a red flag I missed? Pull req
 
 Created by [Dorina Buehrle](https://github.com/yourusername) - CBO/CFO at Lemony (building [cascadeflow](https://github.com/lemony-ai/cascadeflow)), fractional CFO for startups, PhD in Business Innovation, professional translator of "but the architecture is really clean" into "here's the business case."
 
-Part of the [awesome-tech-to-business](https://github.com/yourusername/awesome-tech-to-business) collection.
+Part of the [awesome-tech-to-business] (coming soon) collection.
 
 **A note on philosophy:** Not every project needs to be a business. Some of the best things in open source exist because someone wanted to solve a problem or build something interesting. This framework is here for when you want it or need it, not to convince you that everything should be monetized. Build for the joy of building. Use this when business questions come up.
 
