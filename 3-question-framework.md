@@ -16,7 +16,7 @@ You: "We use speculative cascading to optimize token generation with fallback ro
 
 Buyer: "...cool. What does that mean for my AWS bill?"
 
-Buyer could be a CTO, a project manager, a team lead, a product owner, or anyone else making the call on whether to use your solution. This gap is where promising tech goes to die-not because the tech isn't good, but because the translation is missing.
+Buyer could be a CTO, a project manager, a team lead, a product owner, or anyone else making the call on whether to use your solution. This gap is where promising tech goes to die. Not because the tech isn't good, but because the translation is missing.
 
 ## The Solution
 
@@ -129,7 +129,7 @@ This is the question developers always think but rarely ask out loud. You need a
 "Your engineers *should* build your core differentiators. They *shouldn't* build commodity infrastructure. That's why you use AWS instead of building your own data centers."
 
 **[Cascadeflow](https://github.com/lemony-ai/cascadeflow) example:**
-"You could build LLM cost optimization yourself. The basic routing logic takes maybe 2-3 weeks. But token-level speculative cascading with sub-10ms latency overhead, handling all the edge cases across different LLM providers, maintaining compatibility as APIs change, optimizing for your specific use case-that's 6+ months of specialized work. We've already done that, tested it at scale, and open sourced it under MIT license. You can use it free and modify it however you want. Your call on whether your engineers should spend 6 months on infrastructure or on your actual product."
+"You could build LLM cost optimization yourself. The basic routing logic takes maybe 2-3 weeks. But token-level speculative cascading with sub-10ms latency overhead, handling all the edge cases across different LLM providers, maintaining compatibility as APIs change, optimizing for your specific use case: that's 6+ months of specialized work. We've already done that, tested it at scale, and open sourced it under MIT license. You can use it free and modify it however you want. Your call on whether your engineers should spend 6 months on infrastructure or on your actual product."
 
 ## Putting It All Together
 
