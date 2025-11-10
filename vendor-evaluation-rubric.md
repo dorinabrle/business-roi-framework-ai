@@ -2,7 +2,7 @@
 
 ## Why This Exists
 
-GitHub stars are great. They're also meaningless for buying decisions.
+GitHub stars are great. They have very limited meaning for buying decisions.
 
 This rubric is for when you (or your team, or your manager) need to actually choose a solution and justify that choice. Maybe you're evaluating tools for production, maybe you need to explain why you picked one option over another, or maybe someone's asking you to do due diligence before committing.
 
