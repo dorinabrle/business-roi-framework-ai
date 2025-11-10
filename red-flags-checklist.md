@@ -26,7 +26,7 @@ If you're NOT pursuing the business path, you can safely ignore all of this and 
 
 **The fix (if you want to pursue this commercially):** Build community AND a business model simultaneously. Decide early: What's free forever? What might have paid tiers? Who would pay and why? Community can be your rocket fuel, but you need to know where the rocket is going. 
 
-For [cascadeflow](https://github.com/lemony-ai/cascadeflow), we're going for stars and community first with a fully MIT licensed core, knowing we'll add enterprise features (open core model) later. That's a plan, not hoping it works out.
+For [cascadeflow](https://github.com/lemony-ai/cascadeflow), we're going for a community first with a fully MIT licensed core, knowing we'll add enterprise features (open core model) later. That's a plan, not hoping it works out.
 
 ### 🚩 "We have thousands of users"
 
@@ -61,8 +61,6 @@ For [cascadeflow](https://github.com/lemony-ai/cascadeflow), we're going for sta
 **The fix:** Decide your business model on day one. Open core? Managed service? Support contracts? Pick one. Build for that model from the start.
 
 **Important clarification:** "Open core" means MIT/free today, enterprise features later. That IS a day-one decision. You're not "figuring it out later" - you're executing the GitLab/Elastic playbook: build community with free core, monetize enterprise features. That's different from "we'll figure out monetization someday."
-
-For [cascadeflow](https://github.com/lemony-ai/cascadeflow), we decided on open core from the beginning: MIT licensed core (always free), with enterprise features (advanced analytics, SSO, dedicated support) coming later. Clear from day one.
 
 ### 🚩 "Our competitor charges $X, so we'll charge less"
 
