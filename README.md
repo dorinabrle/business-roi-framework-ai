@@ -73,7 +73,7 @@ Found a mistake? Have a better example? Discovered a red flag I missed? Pull req
 
 ## About
 
-Created by [Dorina Buehrle](https://github.com/yourusername) - CBO/CFO at Lemony (building [cascadeflow](https://github.com/lemony-ai/cascadeflow)), fractional CFO for startups, PhD in Business Innovation, professional translator of "but the architecture is really clean" into "here's the business case."
+Created by [Dorina Buehrle](https://github.com/dorinabrle) - CBO/CFO at Lemony (building [cascadeflow](https://github.com/lemony-ai/cascadeflow)), fractional CFO for startups, PhD in Business Innovation, professional translator of "but the architecture is really clean" into "here's the business case."
 
 Part of the [awesome-tech-to-business] (coming soon) collection.
 
